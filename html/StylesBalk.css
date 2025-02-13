@@ -1,0 +1,16 @@
+img{
+    height: 10rem;
+}
+
+.balkBlauw{
+    display: flex;
+    background-color: blue;
+    /* width: 100rem; */
+    height: 10rem;
+    color: white;
+    gap: 2rem;
+}
+
+body{
+    margin: 0;
+}

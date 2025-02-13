@@ -1,0 +1,28 @@
+img{
+    height: 10rem;
+}
+
+body{
+    background-color: yellow;
+    color: goldenrod;
+}
+
+.blauwvierkant{
+    background-color: blue;
+    width: 5rem;
+    height: 5rem;
+    color: white;
+}
+
+.geelvierkant{
+    background-color: rgb(133, 133, 36);
+    width: 5rem;
+    height: 5rem;
+    color: black;
+}
+
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+}

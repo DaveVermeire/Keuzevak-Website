@@ -1,0 +1,15 @@
+img{
+    height: 15rem;
+}
+
+.paarsvierkant{
+    background-color: purple;
+    width: 5rem;
+    height: 5rem;
+    color: rgb(218, 32, 147);
+}
+body{
+    background-color: pink;
+    color: rgb(218, 32, 147);
+}
+
